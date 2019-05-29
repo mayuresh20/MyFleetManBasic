@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27" started-at="2019-05-18T06:10:50Z" finished-at="2019-05-18T06:10:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27" started-at="2019-05-18T06:10:50Z" finished-at="2019-05-18T06:10:50Z">
+      <class name="testCases.BookingForm">
+        <test-method status="PASS" signature="Initialization()[pri:0, instance:testCases.BookingForm@59fa1d9b]" name="Initialization" is-config="true" duration-ms="6" started-at="2019-05-18T11:40:50Z" finished-at="2019-05-18T11:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method status="PASS" signature="BookingOperation()[pri:0, instance:testCases.BookingForm@59fa1d9b]" name="BookingOperation" duration-ms="5" started-at="2019-05-18T11:40:50Z" finished-at="2019-05-18T11:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingOperation -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testCases.BookingForm@59fa1d9b]" name="TearDown" is-config="true" duration-ms="1" started-at="2019-05-18T11:40:50Z" finished-at="2019-05-18T11:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testCases.BookingForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
